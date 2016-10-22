@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// this code is reversing the number that is getting by using 'stack' //
+
 #define N 100
 typedef int type;
 
